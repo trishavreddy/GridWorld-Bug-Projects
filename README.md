@@ -15,9 +15,14 @@ A recreation and extension of the GridWorld case study, originally coded in 10th
 ### Runners
 Each bug has a corresponding `Runner` class (e.g., `BoxBugRunner`) that demonstrates its behavior in the GridWorld environment.
 
+## Sample Output
+Your bug will move around in a grid, leaving flowers and showcasing custom behaviors.
+
 ## Skills Demonstrated
 - Object-Oriented Programming (OOP)
 - Inheritance and abstract classes
 - Dynamic behaviors and algorithms
 - Creative problem-solving in grid-based systems
+
+
 
